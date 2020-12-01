@@ -1,0 +1,36 @@
+body{
+	box-sizing: border-box;
+    background-color:white;
+    color:black;
+	margin: 25px 50px;
+}
+header{
+	padding:30px;
+	background:#C0C5FC;
+	text-align:center;
+	color:black;
+}
+h1{
+		background:#C0C5FC;
+	text-align:center;
+	color:black;
+}
+h2{
+    text-align:center;
+	background:#D4E7FF;
+    color:#416FA9;
+}
+footer{
+       margin-top:2em;
+    }
+footer a img{
+        height:31px; 
+        width : 88px;
+}
+button{
+	width:180px;
+	height:30px;
+	background-color:#F5D3F2;
+	color:#AA259E;
+	border-color:#F5D3F2;
+}
